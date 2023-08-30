@@ -1,1 +1,1 @@
-path command
+Some commands in executable files
